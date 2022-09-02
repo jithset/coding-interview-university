@@ -482,8 +482,8 @@ Menulis kode pada papan tulis atau kertas, bukan komputer. Uji dengan beberapa s
         - [ ] push(item)
         - [ ] insert(index, item) - menyisipkan item pada indeks, menggeser nilai indeks dan elemen tambahan ke kanan
         - [ ] prepend(item) - dapat menggunakan sisipan di atas pada indeks 0
-        - [ ] pop() - hapus dari akhir, nilai kembali
-        - [ ] delete(index) - hapus item pada indeks, menggeser semua elemen tertinggal ke kiri
+        - [ ] pop() - menghapus item dari akhir, nilai kembali
+        - [ ] delete(index) - menghapus item pada indeks, menggeser semua elemen tertinggal ke kiri
         - [ ] remove(item) - mencari nilai dan menghapus indeks yang menahannya (meskipun di banyak tempat)
         - [ ] find(item) - mencari nilai dan mengembalikan indeks pertama dengan nilai itu, -1 jika tidak ditemukan
         - [ ] resize(new_capacity) // fungsi pribadi
@@ -690,7 +690,7 @@ Menulis kode pada papan tulis atau kertas, bukan komputer. Uji dengan beberapa s
     - [ ] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
     - [ ] Menerapkan sebuah max-heap:
         - [ ] insert
-        - [ ] sift_up - dibutuhkan untuk memasukkan
+        - [ ] sift_up - digunakan untuk memasukkan
         - [ ] get_max - mengembalikan item maksimal, tanpa menghapusnya
         - [ ] get_size() - mengembalikan jumlah elemen yang disimpan
         - [ ] is_empty() - mengembalikan nilai true jika heap tidak berisi elemen
@@ -1706,7 +1706,10 @@ Anda tidak pernah benar-benar selesai.
     - [Bagilah & Taklukkan: Convex Hull, Median Finding](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
 
 - ### Matematika diskrit
-    - lihat video di bawah ini
+    - Apa itu Matematika Diskrit?
+        - [Perkenalan Matematika Diskrit](https://www.youtube.com/watch?v=p2b2Vb-cYCs)
+    - Kuliah Gratis Matematika Diskrit
+        - [Kuliah Gratis Matematika Diskrit *CS 70: Discrete Mathematics and Probability Theory (Spring 2015, UC Berkeley)*()](http://www.infocobuild.com/education/audio-video-courses/computer-science/CS70-Spring2015-Berkeley/lecture-01.html)
 
 - ### Pembelajaran Mesin (Machine Learning)
     - Kenapa ML?
@@ -1940,3 +1943,4 @@ Terjemahan Bahasa Indonesia dipersembahkan oleh
 - @[hwhung0111](https://github.com/hwhung0111)
 - @[fahminlb33](https://github.com/fahminlb33)
 - @[davidsetyanugraha](https://github.com/davidsetyanugraha)
+- @[afrizal0](https://github.com/afrizal0)
